@@ -1,4 +1,4 @@
-# -graph TB
+ -graph TB
     %% 参与者
     PAT1[未注册用户]
     PAT2[注册用户]
